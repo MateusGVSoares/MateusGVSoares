@@ -1,6 +1,6 @@
 # Hello World
 
-> ## Atualmente curso Engenharia da Computação (CEFET-MG). Minhas áreas de interesse são sistemas embarcados e computação gráfica.
+> ## Atualmente curso Engenharia da Computação (CEFET-MG). Minhas áreas de interesse são sistemas embarcados.
 >
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-soares-992009208/)
 
